@@ -5,7 +5,6 @@ final_mat=mat1[0:16].reshape(8,2)
 print(final_mat)
 
 
-
 '''
 #Another method
 #arange*(start,stop,step)[values to be included].reshape(rows,columns)
